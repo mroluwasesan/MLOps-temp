@@ -21,7 +21,7 @@ class IngestData:
 
 
 @step
-def ingest_data():
+def ingest_df():
     """
     Injesting the data from data_path
     
